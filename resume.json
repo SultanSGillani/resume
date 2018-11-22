@@ -1,0 +1,187 @@
+{
+  "basics": {
+    "name": "Sultan Gillani",
+    "label": "Devops Engineer",
+    "picture": "",
+    "email": "sultangillani77@gmail.com",
+    "phone": "(404) 666-8771",
+    "website": "https://sultangillani.com",
+    "summary": "Sultan has around 7 years of experience in IT, Python Development, Cloud computing such as Amazon Web Services (AWS), Google Cloud Platform, in DevOps through CI, CD tools like Jenkins, Gitlab CI, Ansible. He implemented DevOps practices to reduce the gap from development to production release. He has experience on working with Agile Scrum methodology, setting up databases in AWS using RDS and configuring instance backups to S3 buckets. He has hands on experience in using configuration management tools like Vagrant, Ansible He has experience in working with Version control systems like Gitlab, GitHub, Bitbucket, & SVN. He has experience in Jenkins and Gitlab CI to perform Nightly builds, Milestone builds and Continuous Integration. He implemented Docker based Continuous Integration and Deployment Frameworks. He has written docker files and created docker images to deploy application into docker containers. He has installed, configured, modified, tested, and deployed applications on Apache Webservers, Nginx and IIS. He has knowledge in using Build Automation tools like Team City, Travis CI, Gitlab CI, and Jenkins. He has been involved in Shell scripts for compilation and deployment processes and automation.",
+    "location": {
+      "address": "",
+      "postalCode": "GA 30309",
+      "city": "Atlanta",
+      "countryCode": "US",
+      "region": "Georgia"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "sultansgillani",
+        "url": ""
+      },
+      {
+        "network": "GitHub",
+        "username": "sultansgillani",
+        "url": "https://github.com/sultansgillani"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Yardi Systems Inc.",
+      "position": "Devops Engineer",
+      "website": "",
+      "startDate": "2014-01-06",
+      "endDate": "2018-10-15",
+      "summary": "",
+      "highlights": [
+        "Used proactive approach to ensure 99.99% availability of production environment on hybrid infrastructure environment.",
+        "Configured and Maintained DevOps tools like Jenkins, GitHub, TeamCity, Consul & Ansible Created various Docker images, docker-compose, Kubernetes config and ECS-parameter files. ",
+        "Understanding of cloud web hosting infrastructure architectures which utilize relational & NoSQL (Mongo DB) databases ",
+        "Worked extensively on containerized nginx reverse proxy servers along with dynamic config provisioning for newly created containers and on dynamic provisioning of LetsEncrypt certificates for custom URLs. Parsing, Indexing, Searching - Hot, Warm, Cold, Frozen bucketing.",
+        ""
+      ]
+    },
+    {
+      "company": "Sapna Group of Hotels",
+      "position": "IT Engineer - Devops",
+      "website": "",
+      "startDate": "2011-08-01",
+      "endDate": "2014-12-01",
+      "summary": "",
+      "highlights": [
+        "Worked on an internal customized application deployment project. Setup AWS Services utilizing S3, and EC2. ",
+        "Worked on web service API to get the data from webservers to on-premise SQL data base servers. ",
+        "Created Python scripts for steady and continuous deployment, and integration. ",
+        "Participated in project planning sessions with business analyst and team members to analyze client requirement. Created a zero-downtime environment, even during deployments, for the API services and greatly increased the flexibility of the system. ",
+        "Debug and maintain all Jenkins jobs and their deployment servers. ",
+        "Tuned SQL Statements using views and Stored Procedure. Designed Database objects including tables, procedures, views and database triggers on SQL Server Databases."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Thomas Edison State University",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2015-06-01",
+      "endDate": "2019-05-31",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Cloud Technologies: AWS, GCP, Kubernetes",
+      "level": "Intermediate",
+      "keywords": [
+        "AWS",
+        "Kubernetes",
+        "GCP"
+      ]
+    },
+    {
+      "name": "Programming Languages: Python, C#, VB.NET",
+      "level": "Intermediate",
+      "keywords": [
+        "Python",
+        "VB.NET",
+        "C#",
+        "Python Scripting"
+      ]
+    },
+    {
+      "name": "Scripting Language: UNIX Shell Scripting, & Python",
+      "level": "Intermediate",
+      "keywords": [
+        "Python Scripting",
+        "Shell Scripting"
+      ]
+    },
+    {
+      "name": "Database & Visualization: PostgreSQL, SQL Server, MySQL, Mongo DB & Power BI",
+      "level": "Expert",
+      "keywords": [
+        "Databases",
+        "Postgresql",
+        "MySQL",
+        "SQL Server",
+        "NoSQL"
+      ]
+    },
+    {
+      "name": "Network Technologies: NAT, VPC, Subnet Groups, TCP, Route Tables, CDNs, Firewalls",
+      "level": "Expert",
+      "keywords": [
+        "Networking",
+        "Firewalls",
+        "NAT"
+      ]
+    },
+    {
+      "name": "Web Server: Nginx, Apache, IIS",
+      "level": "Expert",
+      "keywords": [
+        "Nginx",
+        "Ingress",
+        "Apache",
+        "Load Balancer",
+        "IIS"
+      ]
+    },
+    {
+      "name": "Version Control System: Git, Subversion, Mercurial",
+      "level": "Expert",
+      "keywords": [
+        "Git",
+        "VCS"
+      ]
+    },
+    {
+      "name": "CI/CD, Automation and Monitoring Tools: Gitlab CI, Team City, Jenkins, JIRA, New Relic, & Travis CI.",
+      "level": "Expert",
+      "keywords": [
+        "Automation",
+        "CI/CD",
+        "Jenkins",
+        "Gitlab",
+        "Pipelines",
+        "Github"
+      ]
+    },
+    {
+      "name": "Platforms: Linux, Windows, OSX",
+      "level": "Expert",
+      "keywords": [
+        "Linux",
+        "OSX",
+        "Debian",
+        "Ubuntu",
+        "Centos"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Taking Things apart and putting them back together.",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "",
+      "keywords": []
+    }
+  ],
+  "references": []
+}

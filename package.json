@@ -1,0 +1,29 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Sultan Gillani Resume",
+  "main": "index.js",
+  "dependencies": {
+    "jsonresume-theme-eloquent": "^4.1.0",
+    "resume-cli": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "resume export index.html --theme=eloquent"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sultansgillani/resume.git"
+  },
+  "keywords": [
+    "resume",
+    "aws",
+    "devops"
+  ],
+  "author": "Sultan Gillani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sultansgillani/resume/issues"
+  },
+  "homepage": "https://github.com/sultansgillani/resume#readme"
+}
