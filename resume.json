@@ -40,7 +40,7 @@
       "startDate": "2018-11-28",
       "summary": "",
       "highlights": [
-        "Maintain the product demo tool that allows potential customers to easily test-drive a full version of the security appliance product via sn AWS based instance.",
+        "Maintain the product demo tool that allows potential customers to easily test-drive a full version of the security appliance product via an AWS based instance.",
         "Provide leadership in DevOps, Infrastructure-as-code, and CI/CD methodologies and techniques including configuration management, change control and full repeatability.",
         "Managed and Configured the companies full stack of DevOps tools such as Jenkins, GitHub, AWS, & Ansible, and created various Docker images, and ansible playbooks.",
         "Converted a fully managed Jenkins master instance from a pure freestyle implementation to Jenkins pipelines, utilizing declarative pipeline syntax for all production repositories.",
