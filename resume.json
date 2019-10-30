@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Sultan Gillani",
-    "label": "Devops Engineer",
+    "label": "DevOps Engineer",
     "picture": "me.png",
     "email": "sultangillani77@gmail.com",
-    "phone": "(404) 666-8771",
+    "phone": "(404) 954-2595",
     "website": "https://sultangillani.com",
     "summary": "Sultan has around 8 years of experience in IT, Python & Ruby Development, Cloud computing such as Amazon Web Services (AWS), Google Cloud Platform, in DevOps through CI, CD tools like Jenkins, Gitlab CI, Ansible. He implemented DevOps practices to reduce the gap from development to production release. He has experience on working with Agile Scrum methodologies, setting up databases in AWS using RDS and configuring instance backups to S3 buckets. He has hands on experience in using configuration management tools like Vagrant, Packer, & Ansible. He has experience in working with Version control systems like Gitlab, GitHub, Bitbucket, & SVN. He has experience in Jenkins and Gitlab CI to perform Nightly builds, Milestone builds and Continuous Integration. He implemented Docker based Continuous Integration and Deployment Frameworks. He has written docker files and created docker images to deploy application into docker containers. He has installed, configured, modified, tested, and deployed applications on Apache Webservers, Nginx and IIS. He has knowledge in using Build Automation tools like Jenkins, Team City, Travis CI, and Gitlab CI. He has been involved in Shell scripts for compilation and deployment processes and automation.",
     "location": {
@@ -35,8 +35,8 @@
   "work": [
     {
       "company": "Veracity Industrial Networks",
-      "position": "Devops Engineer",
-      "website": "veracity.io",
+      "position": "DevOps Engineer",
+      "website": "https://veracity.io",
       "startDate": "2018-11-28",
       "summary": "",
       "highlights": [
@@ -57,7 +57,7 @@
     },
     {
       "company": "Yardi Systems Inc.",
-      "position": "Devops Engineer",
+      "position": "DevOps Engineer",
       "website": "",
       "startDate": "2014-01-06",
       "endDate": "2018-10-15",
@@ -72,7 +72,7 @@
     },
     {
       "company": "Sapna Group of Hotels",
-      "position": "IT Engineer - Devops",
+      "position": "IT Engineer - DevOps",
       "website": "",
       "startDate": "2011-08-01",
       "endDate": "2014-12-01",
