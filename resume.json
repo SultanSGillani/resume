@@ -6,7 +6,7 @@
     "email": "sultangillani77@gmail.com",
     "phone": "(404) 666-8771",
     "website": "https://sultangillani.com",
-    "summary": "Sultan has around 8 years of experience in IT, Python & Ruby Development, Cloud computing such as Amazon Web Services (AWS), Google Cloud Platform, in DevOps through CI, CD tools like Jenkins, Gitlab CI, Ansible. He implemented DevOps practices to reduce the gap from development to production release. He has experience on working with Agile Scrum methodologies, setting up databases in AWS using RDS and configuring instance backups to S3 buckets. He has hands on experience in using configuration management tools like Vagrant, Packer, & Ansible. He has experience in working with Version control systems like Gitlab, GitHub, Bitbucket, & SVN. He has experience in Jenkins and Gitlab CI to perform Nightly builds, Milestone builds and Continuous Integration. He implemented Docker based Continuous Integration and Deployment Frameworks. He has written docker files and created docker images to deploy application into docker containers. He has installed, configured, modified, tested, and deployed applications on Apache Webservers, Nginx and IIS. He has knowledge in using Build Automation tools like Team City, Travis CI, Gitlab CI, and Jenkins. He has been involved in Shell scripts for compilation and deployment processes and automation.",
+    "summary": "Sultan has around 8 years of experience in IT, Python & Ruby Development, Cloud computing such as Amazon Web Services (AWS), Google Cloud Platform, in DevOps through CI, CD tools like Jenkins, Gitlab CI, Ansible. He implemented DevOps practices to reduce the gap from development to production release. He has experience on working with Agile Scrum methodologies, setting up databases in AWS using RDS and configuring instance backups to S3 buckets. He has hands on experience in using configuration management tools like Vagrant, Packer, & Ansible. He has experience in working with Version control systems like Gitlab, GitHub, Bitbucket, & SVN. He has experience in Jenkins and Gitlab CI to perform Nightly builds, Milestone builds and Continuous Integration. He implemented Docker based Continuous Integration and Deployment Frameworks. He has written docker files and created docker images to deploy application into docker containers. He has installed, configured, modified, tested, and deployed applications on Apache Webservers, Nginx and IIS. He has knowledge in using Build Automation tools like Jenkins, Team City, Travis CI, and Gitlab CI. He has been involved in Shell scripts for compilation and deployment processes and automation.",
     "location": {
       "address": "",
       "postalCode": "GA 30309",
@@ -118,12 +118,22 @@
         "Python",
         "Ruby",
         "C#",
-        "VB.NET",
-        "Python Scripting"
+        "VB.NET"
       ]
     },
     {
-      "name": "Scripting Language: UNIX Shell Scripting, Groovy, & Python",
+      "name": "Configuration Management: Ansible, Vagrant, Consul, Packer",
+      "level": "Expert",
+      "keywords": [
+        "Configuration Management",
+        "Infrastructure as Code",
+        "Vagrant",
+        "Consul",
+        "Packer"
+      ]
+    },
+    {
+      "name": "Scripting Language: UNIX Shell Scripting(bash, sh, zsh), Groovy, & Python",
       "level": "Intermediate",
       "keywords": [
         "Python Scripting",
@@ -169,11 +179,12 @@
       "keywords": [
         "Git",
         "VCS",
-        "SVN"
+        "SVN",
+        "HG"
       ]
     },
     {
-      "name": "CI/CD, Automation and Monitoring Tools: Gitlab CI, Team City, Jenkins, JIRA, New Relic, & Travis CI.",
+      "name": "CI/CD, Automation and Monitoring Tools: Jenkins, Gitlab CI, Team City, JIRA, New Relic, & Travis CI.",
       "level": "Expert",
       "keywords": [
         "Automation",
@@ -201,18 +212,6 @@
     {
       "language": "English",
       "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Taking Things apart and putting them back together.",
-      "keywords": [
-        ""
-      ]
-    },
-    {
-      "name": "",
-      "keywords": []
     }
   ],
   "references": []
