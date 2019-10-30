@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Sultan Gillani",
-    "label": "Devops Engineer",
+    "label": "DevOps Engineer",
     "picture": "me.png",
     "email": "sultangillani77@gmail.com",
     "phone": "(404) 954-2595",
@@ -35,7 +35,7 @@
   "work": [
     {
       "company": "Veracity Industrial Networks",
-      "position": "Devops Engineer",
+      "position": "DevOps Engineer",
       "website": "veracity.io",
       "startDate": "2018-11-28",
       "summary": "",
@@ -57,7 +57,7 @@
     },
     {
       "company": "Yardi Systems Inc.",
-      "position": "Devops Engineer",
+      "position": "DevOps Engineer",
       "website": "",
       "startDate": "2014-01-06",
       "endDate": "2018-10-15",
@@ -72,7 +72,7 @@
     },
     {
       "company": "Sapna Group of Hotels",
-      "position": "IT Engineer - Devops",
+      "position": "IT Engineer - DevOps",
       "website": "",
       "startDate": "2011-08-01",
       "endDate": "2014-12-01",
