@@ -110,27 +110,18 @@
     }
   ],
   "volunteer": [],
-  "education": [
-    {
-      "institution": "Thomas Edison State University",
-      "area": "Computer Science",
-      "studyType": "Bachelor",
-      "startDate": "2015-06-01",
-      "endDate": "2019-05-31",
-      "gpa": "",
-      "courses": []
-    }
-  ],
+  "education": [],
   "awards": [],
   "publications": [],
   "skills": [
     {
-      "name": "Cloud Technologies: AWS, GCP, Kubernetes",
+      "name": "Cloud Technologies: AWS, GCP, Kubernetes, Azure",
       "level": "Intermediate",
       "keywords": [
         "AWS",
         "Kubernetes",
-        "GCP"
+        "GCP",
+        "Azure"
       ]
     },
     {
@@ -148,7 +139,7 @@
       "level": "Expert",
       "keywords": [
         "Configuration Management",
-        "Infrastructure as Code",
+        "Ansible",
         "Vagrant",
         "Consul",
         "Packer"
@@ -164,15 +155,14 @@
       ]
     },
     {
-      "name": "Database & Visualization: PostgreSQL, SQL Server, MySQL, SQLite, Mongo DB & Power BI",
+      "name": "Database & Visualization: PostgreSQL, SQL Server, MySQL, & SQLite",
       "level": "Expert",
       "keywords": [
         "Databases",
         "Postgresql",
         "MySQL",
         "SQL Server",
-        "SQLite",
-        "NoSQL"
+        "SQLite"
       ]
     },
     {
@@ -206,7 +196,18 @@
       ]
     },
     {
-      "name": "CI/CD, Automation and Monitoring Tools: Jenkins, Gitlab CI, Team City, JIRA, New Relic, & Travis CI.",
+      "name": "Monitoring Tools: New Relic, Prometheus, Grafana, Dynatrace.",
+      "level": "Intermediate",
+      "keywords": [
+        "Monitoring",
+        "New Relic",
+        "Prometheus",
+        "Grafana",
+        "Dynatrace"
+      ]
+    },
+    {
+      "name": "CI/CD, Automation Tools: Jenkins, Gitlab CI, Team City, Azure Devops, & Travis CI.",
       "level": "Expert",
       "keywords": [
         "Automation",
@@ -214,7 +215,8 @@
         "Jenkins",
         "Gitlab",
         "Pipelines",
-        "Github"
+        "Github",
+        "Azure Devops"
       ]
     },
     {
