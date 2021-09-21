@@ -52,7 +52,7 @@
         "Worked with the QA team on utilizing their testing platform of Katalon to integrate their manual testing strategy, to automated testing utilizing Gitlab CI.",
         "Worked with the security team to enact static and dynamic code analysis for all projects utilizing the fortify on demand platform. This reduced security bugs in our code base by 85%.",
         "Added/Configured all current and new applications/microservices to utilize apm monitoring with New Relic.",
-        "Added infrastructure monitoring for all cloud infrastructure including vms, and Kubernetes environments for New Relic."
+        "Added infrastructure monitoring for all cloud infrastructure including virtual machines, and Kubernetes environments for New Relic."
       ]
     },
     {
