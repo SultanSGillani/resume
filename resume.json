@@ -6,7 +6,7 @@
     "email": "sultangillani77@gmail.com",
     "phone": "(404) 954-2595",
     "website": "https://sultangillani.com",
-    "summary": "Sultan has around 8 years of experience in IT, Python & Ruby Development, Cloud computing such as Amazon Web Services (AWS), Google Cloud Platform, in DevOps through CI, CD tools like Jenkins, Gitlab CI, Ansible. He implemented DevOps practices to reduce the gap from development to production release. He has experience on working with Agile Scrum methodologies, setting up databases in AWS using RDS and configuring instance backups to S3 buckets. He has hands on experience in using configuration management tools like Vagrant, Packer, & Ansible. He has experience in working with Version control systems like Gitlab, GitHub, Bitbucket, & SVN. He has experience in Jenkins and Gitlab CI to perform Nightly builds, Milestone builds and Continuous Integration. He implemented Docker based Continuous Integration and Deployment Frameworks. He has written docker files and created docker images to deploy application into docker containers. He has installed, configured, modified, tested, and deployed applications on Apache Webservers, Nginx and IIS. He has knowledge in using Build Automation tools like Jenkins, Team City, Travis CI, and Gitlab CI. He has been involved in Shell scripts for compilation and deployment processes and automation.",
+    "summary": "Sultan has around 10 years of experience in IT, Python Development, Cloud computing such as Amazon Web Services (AWS), Google Cloud Platform, Microsoft Azure in DevOps through CI, CD tools like Jenkins, Gitlab CI, GitHub Actions, and Azure Devops. He implemented DevOps practices in organizations to reduce the gap from development to production releases. He has experience on working with Agile Scrum methodologies. He has experience in setting up databases in GCP/Azure/AWS regardless of database type. He has hands on Experience in using configuration management tools like Vagrant, Ansible, & Packer. He has experience in working with Version control systems like git, mercurial, & svn. He has experience in Jenkins, Gitlab CI, and GitHub Actions to perform Nightly builds, Milestone builds and Continuous Integration. He maintained a highly available VMware vSphere servers: i.e. vCenter, ESX, vSAN and NSX, including maintenance and reconfiguration. He implemented Docker based Continuous Integration and Deployment Framework. He has written docker files and created docker images to deploy application into docker containers. He has installed, configures, modified, tested, and deployed applications on Apache Webservers, Nginx and IIS. He has been involved in Shell scripts for compilation and deployment processes and automations",
     "location": {
       "address": "",
       "postalCode": "GA 30309",
@@ -33,6 +33,28 @@
     ]
   },
   "work": [
+    {
+      "company": "Nolan Transportation Group",
+      "position": "Site Reliability Engineer",
+      "website": "https://ntgfreight.com",
+      "startDate": "2019-12-09",
+      "summary": "",
+      "highlights": [
+        "Integral part of a reorganization that moved from on-premises operations-based infrastructure to Google Cloud Platform.",
+        "Worked with development and operations to move our complete operational cloud experience from GCP to Azure based on management initiatives.",
+        "Lead the process of moving the full codebase of our application/s from Azure Devops (Team Foundation Services), to Gitlab, and in turn taught all employees, current, and past, to utilize the modern standard of using git.",
+        "Maintained and expanded upon Infrastructure as code by utilizing Terraform for Infrastructure, and Gitlab CI/Ansible for configuration management and deployment.",
+        "Managed and configured the companies full stack of DevOps tools such as Gitlab CI, PowerShell, Bash Scripts, etc., and created various Docker images, and terraform workspaces.",
+        "Created and implemented the initiative of utilizing configuration and infrastructure as code instead of the past error-prone, insecure strategy of manual deployments/configurations.",
+        "Worked extensively in package management and created multiple npm and nuget private packages in Gitlab.",
+        "Performed front-end development for the React/Redux and Angular based logistics microservice UI’s.",
+        "Performed back-end development for the C# based logistics microservices, utilizing object-oriented programming.",
+        "Worked with the QA team on utilizing their testing platform of Katalon to integrate their manual testing strategy, to automated testing utilizing Gitlab CI.",
+        "Worked with the security team to enact static and dynamic code analysis for all projects utilizing the fortify on demand platform. This reduced security bugs in our code base by 85%.",
+        "Added/Configured all current and new applications/microservices to utilize apm monitoring with New Relic.",
+        "Added infrastructure monitoring for all cloud infrastructure including vms, and Kubernetes environments for New Relic."
+      ]
+    },
     {
       "company": "Veracity Industrial Networks",
       "position": "DevOps Engineer",
