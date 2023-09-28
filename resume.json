@@ -40,14 +40,14 @@
       "startDate": "2023-02-24",
       "summary": "",
       "highlights": [
-        "Essential in helping the engineering team in moving the full codebase of our application code base from Gitlab CI to Github Actions,including adding documentation and training on the transitional process.",
-        "Maintained and expanded upon Infrastructure as code by utilizing Terraform for Infrastructure, Gitlab, Github, Rundeck/Ansible for configuration management and deployment.",
-        "Managed and configured the companies full stack of DevOps tools such as Gitlab CI, Github Actions, Python, Bash Scripts, etc.",
-        "Was a fundamental part of modularizing our infrastructure as code terraform stack.",
-        "Led the team in moving our manual Gitlab CI servers to Amazon EKS for scaling and incorporated infrastructure as code.",
+        "Participated in moving the full application stack from Gitlab CI to Github Actions, including adding documentation and training on the transitional process.",
+        "Maintained and expanded upon Infrastructure as code by utilizing Terraform for Gitlab, Github, and Rundeck/Ansible for configuration management and deployment.",
+        "Managed and automated DevOps tools using Python, Bash Scripts, etc.",
+        "Was a fundamental part of modularizing the Infrastructure as Code Terraform stack.",
+        "Led the team in moving manual Gitlab CI servers to Amazon EKS for scaling and incorporated infrastructure as code.",
         "Trained the engineering team on best practices for maintaining and deploying services into EKS (Amazon Elastic Kubernetes Service), including applications, control pane, data plane, and automating this process with Terraform (IAC), and ArgoCD.",
-        "Was a vital part of the team that helped reduce our operational cloud costs by 20% in AWS.",
-        "Led in the project to utilize Consul to properly setup health checks and monitoring for all applications, and server instances."
+        "Was a vital part of the team that helped reduce operational cloud costs by 20% in AWS.",
+        "Led the project to utilize Consul to properly setup health checks, and monitoring for all applications, and server instances."
     ]
     },
     {
@@ -61,15 +61,13 @@
         "Worked with development and operations to move our complete operational cloud experience from GCP to Azure based on management initiatives.",
         "Lead the process of moving the full codebase of our application/s from Azure Devops (Team Foundation Services), to Gitlab, and in turn taught all employees, current, and past, to utilize the modern standard of using git.",
         "Maintained and expanded upon Infrastructure as code by utilizing Terraform for Infrastructure, and Gitlab CI/Ansible for configuration management and deployment.",
-        "Managed and configured the companies full stack of DevOps tools such as Gitlab CI, PowerShell, Bash Scripts, etc., and created various Docker images, and terraform workspaces.",
         "Created and implemented the initiative of utilizing configuration and infrastructure as code instead of the past error-prone, insecure strategy of manual deployments/configurations.",
         "Worked extensively in package management and created multiple npm and nuget private packages in Gitlab.",
         "Performed front-end development for the React/Redux and Angular based logistics microservice UI’s.",
         "Performed back-end development for the C# based logistics microservices, utilizing object-oriented programming.",
         "Worked with the QA team on utilizing their testing platform of Katalon to integrate their manual testing strategy, to automated testing utilizing Gitlab CI.",
         "Worked with the security team to enact static and dynamic code analysis for all projects utilizing the fortify on demand platform. This reduced security bugs in our code base by 85%.",
-        "Added/Configured all current and new applications/microservices to utilize apm monitoring with New Relic.",
-        "Added infrastructure monitoring for all cloud infrastructure including virtual machines, and Kubernetes environments for New Relic."
+        "Added/Configured all current and new applications/microservices to utilize APM monitoring with New Relic."
       ]
     },
     {
@@ -79,19 +77,16 @@
       "startDate": "2018-11-28",
       "summary": "",
       "highlights": [
-        "Maintain the product demo tool that allows potential customers to easily test-drive a full version of the security appliance product via an AWS based instance.",
-        "Provide leadership in DevOps, Infrastructure-as-code, and CI/CD methodologies and techniques including configuration management, change control and full repeatability.",
-        "Managed and Configured the companies full stack of DevOps tools such as Jenkins, GitHub, AWS, & Ansible, and created various Docker images, and ansible playbooks.",
+        "Responsible for maintaining the product demo tool allowing potential customers to easily test-drive a full version of the security appliance product via an AWS based instance.",
+        "Provided leadership in DevOps, Infrastructure-as-code, and CI/CD methodologies and techniques including configuration management, change control and full repeatability.",
         "Converted a fully managed Jenkins master instance from a pure freestyle implementation to Jenkins pipelines, utilizing declarative pipeline syntax for all production repositories.",
-        "Created new jenkins infrastructure to utilize multiple jenkins nodes, ensuring a high available Jenkins cluster.",
+        "Created new Jenkins infrastructure to utilize multiple Jenkins nodes, ensuring a high available Jenkins cluster.",
         "Created the companies first Jenkins Shared Library to consolidate pipeline code and simplify the build and deployment process, utilizing the groovy programming language.",
-        "Converted the OpenBSD production environment to linux to be able to utilize newly available devops tooling and configuration.",
-        "Maintained highly available VMware vSphere servers: i.e. vCenter, ESX, vSAN and NSX, including maintenance and reconfiguration.",
+        "Converted the OpenBSD production environment to Linux to be able to utilize newly available DevOps tooling and configuration.",
         "Worked extensively in package management and created custom OpenBSD ports packages for production environments.",
         "Performed front-end development for the React/Redux based security appliance UI.",
-        "Performed back-end development for the Ruby/Sinatra based security appliance, utilizing object oriented programming.",
-        "Helped maintain and use RSpec/Capybara based software testing suite to validate UI correctness.",
-        ""
+        "Performed back-end development for the Ruby/Sinatra based security appliance, utilizing object-oriented programming.",
+        "Helped maintain and use RSpec/Capybara based software testing suite to validate UI correctness."
       ]
     },
     {
@@ -102,11 +97,11 @@
       "endDate": "2018-10-15",
       "summary": "",
       "highlights": [
-        "Used proactive approach to ensure 99.99% availability of production environment on hybrid infrastructure environment.",
-        "Configured and Maintained DevOps tools like Jenkins, GitHub, TeamCity, & Ansible Created various configuration files.",
-        "Understanding of cloud web hosting infrastructure architectures which utilize relational & NoSQL (Mongo DB) databases. ",
-        "Worked extensively on containerized nginx reverse proxy servers along with dynamic config provisioning for newly created containers and on dynamic provisioning of LetsEncrypt certificates for custom URLs. Parsing, Indexing, Searching - Hot, Warm, Cold, Frozen bucketing.",
-        ""
+        "Used a proactive approach to ensure 99.99% availability of production environment on hybrid infrastructure environment.",
+        "Configured and Maintained DevOps tools like Jenkins, GitHub, TeamCity, Consul & Ansible.",
+        "Developed programs using C#, VB.NET, and shell scripting.",
+        "Worked extensively on containerizing Nginx reverse proxy servers along with dynamic provisioning for newly created containers and the provisioning of LetsEncrypt certificates for custom URLs.",
+        "Created VPC, Public and Private Subnets with different Security groups. Used ELBs, Cloud Front (CDN), Cloudflare, S3, EC2, S3 for cloud Infrastructure."
       ]
     }
   ],
