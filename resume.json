@@ -108,22 +108,6 @@
         "Worked extensively on containerized nginx reverse proxy servers along with dynamic config provisioning for newly created containers and on dynamic provisioning of LetsEncrypt certificates for custom URLs. Parsing, Indexing, Searching - Hot, Warm, Cold, Frozen bucketing.",
         ""
       ]
-    },
-    {
-      "company": "Sapna Group of Hotels",
-      "position": "IT Engineer - DevOps",
-      "website": "",
-      "startDate": "2011-08-01",
-      "endDate": "2014-12-01",
-      "summary": "",
-      "highlights": [
-        "Worked on an internal customized application deployment project. Setup AWS Services utilizing S3, and EC2. ",
-        "Worked on web service API to get the data from webservers to on-premise SQL data base servers. ",
-        "Created Python scripts for steady and continuous deployment, and integration. ",
-        "Participated in project planning sessions with business analyst and team members to analyze client requirement. Created a zero-downtime environment, even during deployments, for the API services and greatly increased the flexibility of the system. ",
-        "Debug and maintain all Jenkins jobs and their deployment servers. ",
-        "Tuned SQL Statements using views and Stored Procedure. Designed Database objects including tables, procedures, views and database triggers on SQL Server Databases."
-      ]
     }
   ],
   "volunteer": [],
