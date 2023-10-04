@@ -37,7 +37,8 @@
       "company": "Evisort",
       "position": "Senior Devops Engineer",
       "website": "https://evisort.com",
-      "startDate": "2023-02-24",
+      "startDate": "2022-02-24",
+      "endDate": "2023-09-25",
       "summary": "",
       "highlights": [
         "Led the migration of the application stack from Gitlab CI to GitHub Actions, reducing operational costs and enhancing efficiency.",
@@ -53,6 +54,7 @@
       "position": "Site Reliability Engineer",
       "website": "https://ntgfreight.com",
       "startDate": "2019-12-09",
+      "endDate": "2022-02-24",
       "summary": "",
       "highlights": [
         "Played a key role in transitioning from on-premises operations to Google Cloud Platform and later to Azure, ensuring seamless cloud experiences.",
@@ -67,6 +69,7 @@
       "position": "DevOps Engineer",
       "website": "https://veracity.io",
       "startDate": "2018-11-28",
+      "endDate": "2019-12-09",
       "summary": "",
       "highlights": [
         "Maintained and enhanced product demo tool on AWS, ensuring a seamless experience for potential customers.",
