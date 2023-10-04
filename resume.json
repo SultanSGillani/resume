@@ -6,7 +6,7 @@
     "email": "sultangillani@gmail.com",
     "phone": "(770) 317-4623",
     "website": "https://sultangillani.com",
-    "summary": "Sultan has 12+ years of experience in IT, Python Development, Cloud computing such as Amazon Web Services (AWS), Google Cloud Platform, Microsoft Azure, CD tools like Jenkins, Gitlab CI, GitHub Actions, and Azure Devops. He implemented DevOps practices in organizations to reduce the gap from development to production releases. He has experience working with Agile Scrum methodologies. He has experience in setting up databases in GCP/Azure/AWS including PostgresSql, MSSql, RDS/Aurora/etc. He has hands on Experience in using configuration management tools like Vagrant, Ansible, Consul, & Packer. He has experience in working with Version control systems like git, mercurial, & svn. He has experience in Jenkins, Gitlab CI, and GitHub Actions to perform Nightly builds, Milestone builds and Continuous Integration. He has maintained highly available applications served by multiple platforms including AWS, GCP, and Azure. He has written docker files and created docker images to deploy applications into docker containers. He has installed, configured, modified, tested, and deployed applications on Apache Webservers, Nginx, IIS, and Kubernetes. He has been involved in Shell scripts for compilation and deployment processes and automations. This includes Python, Bash, etc",
+    "summary": "Results-oriented and highly skilled DevOps Engineer with over 12 years of experience in IT, Python Development, and Cloud Computing across Amazon Web Services (AWS), Google Cloud Platform, and Microsoft Azure. Adept at implementing DevOps practices, managing CI/CD pipelines, and ensuring seamless transitions from development to production. Proficient in various tools including Jenkins, Gitlab CI, GitHub Actions, Azure DevOps, Ansible, Vagrant, and more. Experienced in setting up and managing databases, automating processes, and optimizing cloud infrastructure for high availability and performance. Strong background in Agile Scrum methodology and excellent problem-solving abilities.",
     "location": {
       "address": "",
       "postalCode": "GA 30309",
@@ -40,14 +40,12 @@
       "startDate": "2023-02-24",
       "summary": "",
       "highlights": [
-        "Participated in moving the full application stack from Gitlab CI to Github Actions, including adding documentation and training on the transitional process.",
-        "Maintained and expanded upon Infrastructure as code by utilizing Terraform for Gitlab, Github, and Rundeck/Ansible for configuration management and deployment.",
-        "Managed and automated DevOps tools using Python, Bash Scripts, etc.",
-        "Was a fundamental part of modularizing the Infrastructure as Code Terraform stack.",
-        "Led the team in moving manual Gitlab CI servers to Amazon EKS for scaling and incorporated infrastructure as code.",
-        "Trained the engineering team on best practices for maintaining and deploying services into EKS (Amazon Elastic Kubernetes Service), including applications, control pane, data plane, and automating this process with Terraform (IAC), and ArgoCD.",
-        "Was a vital part of the team that helped reduce operational cloud costs by 20% in AWS.",
-        "Led the project to utilize Consul to properly setup health checks, and monitoring for all applications, and server instances."
+        "Led the migration of the application stack from Gitlab CI to GitHub Actions, reducing operational costs and enhancing efficiency.",
+        "Implemented Infrastructure as Code using Terraform, Gitlab, and Rundeck/Ansible for configuration management and deployment.",
+        "Automated DevOps tools using Python and Bash Scripts, contributing to a modularized Infrastructure as Code Terraform stack.",
+        "Successfully moved manual Gitlab CI servers to Amazon EKS, optimizing scalability and incorporating infrastructure as code practices.",
+        "Trained engineering teams on best practices for deploying services into EKS and automated processes using Terraform and ArgoCD.",
+        "Implemented Consul for setting up health checks and monitoring for applications and server instances, resulting in improved reliability."
     ]
     },
     {
@@ -57,17 +55,11 @@
       "startDate": "2019-12-09",
       "summary": "",
       "highlights": [
-        "Integral part of a reorganization that moved from on-premises operations-based infrastructure to Google Cloud Platform.",
-        "Worked with development and operations to move our complete operational cloud experience from GCP to Azure based on management initiatives.",
-        "Lead the process of moving the full codebase of our application/s from Azure Devops (Team Foundation Services), to Gitlab, and in turn taught all employees, current, and past, to utilize the modern standard of using git.",
-        "Maintained and expanded upon Infrastructure as code by utilizing Terraform for Infrastructure, and Gitlab CI/Ansible for configuration management and deployment.",
-        "Created and implemented the initiative of utilizing configuration and infrastructure as code instead of the past error-prone, insecure strategy of manual deployments/configurations.",
-        "Worked extensively in package management and created multiple npm and nuget private packages in Gitlab.",
-        "Performed front-end development for the React/Redux and Angular based logistics microservice UI’s.",
-        "Performed back-end development for the C# based logistics microservices, utilizing object-oriented programming.",
-        "Worked with the QA team on utilizing their testing platform of Katalon to integrate their manual testing strategy, to automated testing utilizing Gitlab CI.",
-        "Worked with the security team to enact static and dynamic code analysis for all projects utilizing the fortify on demand platform. This reduced security bugs in our code base by 85%.",
-        "Added/Configured all current and new applications/microservices to utilize APM monitoring with New Relic."
+        "Played a key role in transitioning from on-premises operations to Google Cloud Platform and later to Azure, ensuring seamless cloud experiences.",
+        "Utilized Terraform for infrastructure and Gitlab CI/Ansible for configuration management and deployment, enhancing automation and security.",
+        "Spearheaded the adoption of modern version control practices, moving from Azure DevOps to Gitlab and implementing Git-based workflows.",
+        "Implemented automated testing using Gitlab CI and integrated static and dynamic code analysis tools, reducing security vulnerabilities by 85%.",
+        "Configured applications for APM monitoring with New Relic, enhancing performance and user experience."
       ]
     },
     {
@@ -77,16 +69,11 @@
       "startDate": "2018-11-28",
       "summary": "",
       "highlights": [
-        "Responsible for maintaining the product demo tool allowing potential customers to easily test-drive a full version of the security appliance product via an AWS based instance.",
-        "Provided leadership in DevOps, Infrastructure-as-code, and CI/CD methodologies and techniques including configuration management, change control and full repeatability.",
-        "Converted a fully managed Jenkins master instance from a pure freestyle implementation to Jenkins pipelines, utilizing declarative pipeline syntax for all production repositories.",
-        "Created new Jenkins infrastructure to utilize multiple Jenkins nodes, ensuring a high available Jenkins cluster.",
-        "Created the companies first Jenkins Shared Library to consolidate pipeline code and simplify the build and deployment process, utilizing the groovy programming language.",
-        "Converted the OpenBSD production environment to Linux to be able to utilize newly available DevOps tooling and configuration.",
-        "Worked extensively in package management and created custom OpenBSD ports packages for production environments.",
-        "Performed front-end development for the React/Redux based security appliance UI.",
-        "Performed back-end development for the Ruby/Sinatra based security appliance, utilizing object-oriented programming.",
-        "Helped maintain and use RSpec/Capybara based software testing suite to validate UI correctness."
+        "Maintained and enhanced product demo tool on AWS, ensuring a seamless experience for potential customers.",
+        "Implemented DevOps best practices, including Infrastructure-as-Code, CI/CD pipelines, and configuration management using Jenkins and Groovy.",
+        "Created Jenkins Shared Library to streamline build and deployment processes, optimizing efficiency.",
+        "Led the migration from OpenBSD to Linux, enabling the use of new DevOps tools and configurations.",
+        "Developed front-end and back-end components for security appliance UI using React/Redux, Ruby/Sinatra, and RSpec/Capybara for testing."
       ]
     },
     {
@@ -97,11 +84,10 @@
       "endDate": "2018-10-15",
       "summary": "",
       "highlights": [
-        "Used a proactive approach to ensure 99.99% availability of production environment on hybrid infrastructure environment.",
-        "Configured and Maintained DevOps tools like Jenkins, GitHub, TeamCity, Consul & Ansible.",
-        "Developed programs using C#, VB.NET, and shell scripting.",
-        "Worked extensively on containerizing Nginx reverse proxy servers along with dynamic provisioning for newly created containers and the provisioning of LetsEncrypt certificates for custom URLs.",
-        "Created VPC, Public and Private Subnets with different Security groups. Used ELBs, Cloud Front (CDN), Cloudflare, S3, EC2, S3 for cloud Infrastructure."
+        "Ensured 99.99% availability of production environment in a hybrid infrastructure setting.",
+        "Managed DevOps tools such as Jenkins, GitHub, TeamCity, Consul, and Ansible.",
+        "Containerized Nginx reverse proxy servers and implemented dynamic provisioning for containers, enhancing scalability and security.",
+        "Implemented VPC, subnets, ELBs, Cloud Front, Cloudflare, S3, and EC2 for cloud infrastructure."
       ]
     }
   ],
