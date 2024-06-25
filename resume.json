@@ -34,6 +34,20 @@
   },
   "work": [
     {
+      "company": "AMH",
+      "position": "Site Reliability Engineer",
+      "website": "https://amh.com",
+      "startDate": "2024-02-25",
+      "summary": "",
+      "highlights": [
+        "Spearheaded the company's migration from Microsoft Application Insights to utilize OpenTelemetry, enhancing application monitoring and performance insights.",
+        "Established and led AMH's first Site Reliability Team, focusing on optimizing reliability and performance.",
+        "Orchestrated the migration from Azure Monitor to Grafana Cloud (Loki, Tempo, Prometheus), enhancing monitoring capabilities.",
+        "Implemented Infrastructure as Code (Terraform) for dashboards and alerting, improving operational efficiency.",
+        "Collaborated closely with development teams using C# for application development."
+    ]
+    },
+    {
       "company": "Evisort",
       "position": "Senior DevOps Engineer",
       "website": "https://evisort.com",
