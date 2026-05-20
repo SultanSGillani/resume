@@ -59,7 +59,7 @@
       "summary": "",
       "highlights": [
         "Led the migration from GitLab CI to GitHub Actions, reducing operational costs and standardizing CI/CD workflows across engineering teams.",
-        "Supported GCP infrastructure for data science, application development, and engineering workloads.",
+        "Supported AWS infrastructure for data science, application development, and engineering workloads.",
         "Implemented Infrastructure as Code using Terraform, Ansible, GitLab, and Rundeck to automate provisioning, configuration management, and deployments.",
         "Migrated manually managed GitLab CI runner infrastructure to Amazon EKS, improving scalability, reliability, and operational maintainability.",
         "Automated Kubernetes deployments using Flux and ArgoCD, enabling GitOps-based delivery for containerized services.",
