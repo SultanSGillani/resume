@@ -1,0 +1,8 @@
+{
+    "jdk.jdkhome": "/Users/sgillani/.local/share/mise/installs/java/zulu-26.30.11.0",
+    "debug.javascript.defaultRuntimeExecutable": {
+        "pwa-node": "/Users/sgillani/.local/share/mise/shims/node"
+    },
+    "shellcheck.executablePath": "/Users/sgillani/.local/share/mise/shims/shellcheck",
+    "python.defaultInterpreterPath": "/Users/sgillani/.local/share/mise/installs/python/3.13.7/bin/python"
+}

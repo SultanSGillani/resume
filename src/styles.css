@@ -1,0 +1,382 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap");
+
+:root {
+  --bg: #0f1724;
+  --panel: rgba(22, 33, 52, 0.72);
+  --panel-strong: #111c2e;
+  --ink: #f2f6fc;
+  --muted: #b5c2d8;
+  --teal: #55d6c2;
+  --gold: #f5b35e;
+  --line: rgba(181, 194, 216, 0.24);
+  --shadow: 0 20px 45px rgba(8, 12, 20, 0.42);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "IBM Plex Sans", sans-serif;
+  color: var(--ink);
+  background:
+    radial-gradient(circle at 8% 18%, rgba(85, 214, 194, 0.23), transparent 33%),
+    radial-gradient(circle at 85% 2%, rgba(245, 179, 94, 0.25), transparent 40%),
+    linear-gradient(160deg, #0b111b 0%, #0f1724 55%, #151f32 100%);
+  min-height: 100vh;
+}
+
+a {
+  color: inherit;
+}
+
+.app-shell {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 28px 18px 40px;
+  position: relative;
+}
+
+.ambient {
+  position: fixed;
+  width: 360px;
+  aspect-ratio: 1;
+  border-radius: 999px;
+  filter: blur(85px);
+  z-index: -1;
+  opacity: 0.26;
+  animation: float 11s ease-in-out infinite;
+}
+
+.ambient-one {
+  background: #2fd6b0;
+  left: -140px;
+  top: 30vh;
+}
+
+.ambient-two {
+  background: #ffbf6b;
+  right: -140px;
+  top: 10vh;
+  animation-delay: 1.8s;
+}
+
+.card {
+  border: 1px solid var(--line);
+  border-radius: 22px;
+  background: var(--panel);
+  backdrop-filter: blur(10px);
+  box-shadow: var(--shadow);
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: 1.4fr 0.8fr;
+  gap: 22px;
+  padding: 26px;
+  animation: rise 0.8s ease forwards;
+}
+
+.eyebrow {
+  color: var(--teal);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-size: 0.74rem;
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Space Grotesk", sans-serif;
+}
+
+h1 {
+  font-size: clamp(1.8rem, 4.8vw, 3.35rem);
+  line-height: 1.05;
+  margin: 0.2rem 0 0.7rem;
+}
+
+.headline {
+  color: var(--muted);
+  max-width: 65ch;
+  font-size: 1rem;
+  line-height: 1.65;
+}
+
+.hero-cta-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 18px 0;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  border-radius: 999px;
+  text-decoration: none;
+  padding: 0.65rem 1.1rem;
+  transition: transform 0.2s ease, background-color 0.2s ease;
+}
+
+.btn:hover {
+  transform: translateY(-1px);
+}
+
+.btn-primary {
+  background: linear-gradient(130deg, #2fd6b0, #20aab2);
+  color: #072126;
+}
+
+.btn-ghost {
+  border: 1px solid var(--line);
+  color: var(--ink);
+}
+
+.badge-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.badge-list li {
+  border: 1px solid rgba(85, 214, 194, 0.45);
+  color: #89f7e4;
+  border-radius: 999px;
+  padding: 0.36rem 0.72rem;
+  font-size: 0.82rem;
+}
+
+.profile-panel {
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: var(--panel-strong);
+  padding: 16px;
+}
+
+.avatar {
+  width: 92px;
+  height: 92px;
+  border-radius: 18px;
+  object-fit: cover;
+  border: 2px solid rgba(85, 214, 194, 0.7);
+}
+
+.profile-panel h2 {
+  font-size: 1.1rem;
+  margin-bottom: 0.1rem;
+}
+
+.profile-panel p {
+  color: var(--muted);
+  margin-top: 0;
+}
+
+.profile-panel ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 8px;
+}
+
+.profile-panel li a {
+  color: #daf1ff;
+  text-decoration: none;
+}
+
+.social-grid {
+  margin-top: 14px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.social-grid a {
+  text-decoration: none;
+  font-size: 0.83rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 0.3rem 0.7rem;
+}
+
+.content-grid {
+  margin-top: 18px;
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+  gap: 18px;
+}
+
+.span-two {
+  grid-row: span 2;
+}
+
+.content-grid .card {
+  padding: 18px;
+  animation: rise 0.95s ease both;
+}
+
+.section-title-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 8px;
+  border-bottom: 1px dashed var(--line);
+  margin-bottom: 14px;
+}
+
+.section-title-row h3 {
+  margin: 0 0 0.5rem;
+  font-size: 1.2rem;
+}
+
+.section-title-row p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.86rem;
+}
+
+.timeline {
+  display: grid;
+  gap: 14px;
+}
+
+.timeline-item {
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 12px;
+  background: rgba(6, 12, 21, 0.35);
+}
+
+.timeline-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  align-items: flex-start;
+}
+
+.timeline-head h4 {
+  margin: 0;
+  font-size: 1rem;
+}
+
+.timeline-head p {
+  margin: 0.1rem 0 0;
+  color: var(--gold);
+}
+
+.timeline-head p a {
+  text-decoration: none;
+}
+
+.timeline-meta {
+  text-align: right;
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+.timeline-meta strong {
+  display: block;
+  color: #fff;
+  font-size: 0.88rem;
+}
+
+.timeline-item ul {
+  margin: 0.75rem 0 0;
+  padding-left: 1rem;
+  color: var(--muted);
+  display: grid;
+  gap: 6px;
+}
+
+.skills-list,
+.stack-list {
+  display: grid;
+  gap: 10px;
+}
+
+.skill-card,
+.stack-item {
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: rgba(6, 12, 21, 0.35);
+  padding: 0.7rem 0.8rem;
+}
+
+.skill-name {
+  margin: 0;
+  color: #d8edff;
+  line-height: 1.5;
+}
+
+.skill-card span,
+.stack-item span {
+  font-size: 0.82rem;
+  color: var(--teal);
+}
+
+.stack-item p {
+  margin: 0;
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(18px);
+  }
+}
+
+@media (max-width: 980px) {
+  .hero,
+  .content-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .span-two {
+    grid-row: span 1;
+  }
+}
+
+@media (max-width: 620px) {
+  .app-shell {
+    padding: 14px 12px 24px;
+  }
+
+  .hero {
+    padding: 16px;
+  }
+
+  .content-grid .card {
+    padding: 14px;
+  }
+
+  .timeline-head {
+    flex-direction: column;
+  }
+
+  .timeline-meta {
+    text-align: left;
+  }
+}
