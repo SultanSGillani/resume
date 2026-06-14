@@ -33,6 +33,9 @@ export default function App() {
             <a className="btn btn-ghost" href={basics.website} target="_blank" rel="noreferrer">
               Personal Site
             </a>
+            <button className="btn btn-ghost no-print" onClick={() => window.print()}>
+              Download PDF
+            </button>
           </div>
           <ul className="badge-list" aria-label="Core technologies">
             {keyTech.map((tech) => (

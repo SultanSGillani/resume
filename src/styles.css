@@ -117,11 +117,15 @@ h1 {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  font-family: inherit;
+  font-size: inherit;
   font-weight: 600;
   border-radius: 999px;
   text-decoration: none;
   padding: 0.65rem 1.1rem;
   transition: transform 0.2s ease, background-color 0.2s ease;
+  background: transparent;
+  cursor: pointer;
 }
 
 .btn:hover {
@@ -356,6 +360,73 @@ h1 {
 
   .span-two {
     grid-row: span 1;
+  }
+}
+
+@media print {
+  @page {
+    margin: 1cm 1.2cm;
+    size: A4;
+  }
+
+  :root {
+    --bg: #fff;
+    --panel: #fff;
+    --panel-strong: #f5f7fa;
+    --ink: #111;
+    --muted: #555;
+    --teal: #0a7e72;
+    --gold: #b07b1a;
+    --line: #d0d5df;
+    --shadow: none;
+  }
+
+  body {
+    background: #fff;
+    color: #111;
+  }
+
+  .ambient,
+  .no-print {
+    display: none !important;
+  }
+
+  .app-shell {
+    max-width: 100%;
+    padding: 0;
+  }
+
+  .card {
+    border: 1px solid #d0d5df;
+    backdrop-filter: none;
+    box-shadow: none;
+    break-inside: avoid;
+  }
+
+  .hero {
+    animation: none;
+    padding: 16px;
+  }
+
+  .content-grid .card {
+    animation: none;
+  }
+
+  .hero-cta-row {
+    display: none;
+  }
+
+  .badge-list {
+    display: none;
+  }
+
+  .timeline-item {
+    break-inside: avoid;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
   }
 }
 
