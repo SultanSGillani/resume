@@ -136,7 +136,7 @@
   "skills": [
     {
       "name": "Cloud Technologies: AWS, GCP, Kubernetes, Azure, Amazon EKS, ECS",
-      "level": "Intermediate",
+      "level": "Expert",
       "keywords": [
         "AWS",
         "GCP",
@@ -228,7 +228,7 @@
     },
     {
       "name": "Observability & Monitoring: OpenTelemetry, Grafana, Prometheus, Loki, Tempo, New Relic, Dynatrace, Honeycomb, Azure Monitor, Application Insights",
-      "level": "Intermediate",
+      "level": "Expert",
       "keywords": [
         "Monitoring",
         "OpenTelemetry",

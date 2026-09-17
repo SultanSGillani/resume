@@ -5,5 +5,8 @@
     },
     "shellcheck.executablePath": "/Users/sultan/.local/share/mise/shims/shellcheck",
     "python.defaultInterpreterPath": "/Users/sultan/.local/share/mise/installs/python/3.13.7/bin/python",
-    "dotnetAcquisitionExtension.sharedExistingDotnetPath": "/Users/sultan/.local/share/mise/shims/dotnet"
+    "dotnetAcquisitionExtension.sharedExistingDotnetPath": "/Users/sultan/.local/share/mise/shims/dotnet",
+    "go.alternateTools": {
+        "go": "/Users/sultan/.local/share/mise/shims/go"
+    }
 }
